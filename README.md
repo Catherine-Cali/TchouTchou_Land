@@ -1,42 +1,23 @@
-#🚆 2D Train Simulator
-A web-based 2D train simulator built with vanilla HTML, CSS, and JavaScript. This project allows users to design and modify train tracks in real time, add multiple trains, and observe their behavior within defined constraints to prevent collisions and derailments.
+# 🚆 2D Train Simulator
 
-#🎯 Features
-Real-time track layout editing
+The 2D Train Simulator is a web-based project developed as part of a school assignment. It allows users to dynamically build railway tracks, add trains, and observe train behavior in real-time. It was built using vanilla HTML, CSS, and JavaScript.
 
-Add/remove multiple trains dynamically
+---
+## 🎯 Features
+- Real-time track layout editing
+- Add multiple trains dynamically
+- Safety constraints to avoid derailments
+- User-friendly interface with interactive controls
+--- 
+## 🛠️ Technologies Used
+- HTML for structure
+- CSS for styling
+- JavaScript for interactivity and logic
+---
 
-Basic physics to simulate movement and turning
+## 🧭 Getting Started
 
-Safety constraints to avoid derailments
+1. Clone the repository
 
-User-friendly interface with interactive controls
-
-#🛠️ Technologies Used
-HTML for structure
-
-CSS for styling
-
-JavaScript for interactivity and logic
-
-#📷 Preview
-(Include a screenshot or GIF if possible)
-
-🚀 Getting Started
-Clone the repository
-
-bash
-Copier
-Modifier
-git clone https://github.com/yourusername/2d-train-simulator.git
-Open index.html in your browser
-
-Start designing tracks and simulating trains!
-
-📚 Project Context
-Developed as part of a school project to explore basic simulation mechanics, DOM manipulation, and dynamic UI rendering using only web technologies. Built in collaboration with [Teammate Name].
-
-👥 Authors
-Your Name
-
-Teammate Name
+```bash
+git clone https://github.com/your-username/2d-train-simulator.git
