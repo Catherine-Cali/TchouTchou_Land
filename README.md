@@ -3,21 +3,25 @@
 The 2D Train Simulator is a web-based project developed as part of a school assignment. It allows users to dynamically build railway tracks, add trains, and observe train behavior in real-time. It was built using vanilla HTML, CSS, and JavaScript.
 
 ---
-## 🎯 Features
+## Features
 - Real-time track layout editing
 - Add multiple trains dynamically
 - Safety constraints to avoid derailments
 - User-friendly interface with interactive controls
 --- 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML for structure
 - CSS for styling
 - JavaScript for interactivity and logic
 ---
 
-## 🧭 Getting Started
+## Getting Started
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/2d-train-simulator.git
+git clone https://github.com/Catherine-Cali/TchouTchou_Land.git
+````
+## Author
+Arthur BASSETTE
+Catherine Sidar CALI
