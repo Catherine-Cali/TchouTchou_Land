@@ -22,6 +22,6 @@ The 2D Train Simulator is a web-based project developed as part of a school assi
 ```bash
 git clone https://github.com/Catherine-Cali/TchouTchou_Land.git
 ````
-## Author
-Arthur BASSETTE
-Catherine Sidar CALI
+## Authors
+- Arthur BASSETTE
+- Catherine Sidar CALI
