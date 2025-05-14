@@ -1,0 +1,77 @@
+/**
+Université Sorbonne Paris Nord, Programmation Web
+	Simulateur de trains
+	Authors      : Arthur BASSETTE/CHANCEREUL - Catherine Sidar CALI 
+	Created       : 2024/06/02
+	Last modified : 2024/06/16
+*/
+
+
+#boutons input[type=image]
+{
+    height: 32px;
+    width: 32px;
+    border: solid black 2px;
+}
+#boutons input[type=image]:disabled
+{
+    opacity:0.5;
+    border: solid red 2px;
+}
+
+#boutons_trains input[type=image]
+{
+    height: 32px;
+    border: solid black 2px;
+}
+
+#boutons_trains input[type=image]:disabled
+{
+    opacity:0.5;
+    border: solid red 2px;
+}
+
+body {
+
+    display: flex;
+    flex-direction: row;
+}
+
+#boutons{
+    display: flex;
+    flex-direction : column;
+    justify-content: space-between;
+    margin : 5px;
+}
+
+#boutons_trains{
+    display: flex;
+    flex-direction : column;
+    justify-content: space-evenly;
+    height: 300px;
+    margin-top: 100px;
+}
+
+#bouton_train_1 {
+    width : 32px;
+}
+
+#bouton_train_2{
+    width: 64px;
+}
+
+#bouton_train_4{
+    width: 128px;
+}
+
+#bouton_train_6{
+    width: 192px;
+}
+
+
+
+#simulateur{
+    margin-top : 3%;
+    margin-left : 1%;
+    margin-right : 1%;
+}
